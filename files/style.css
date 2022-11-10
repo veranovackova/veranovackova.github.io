@@ -83,7 +83,9 @@ i { font-style: italic; }
   }
   .column__ration8-4 > *:last-child {
       width: 30%;
-
+  }
+  article aside{
+      width: 100%;
   }
 }
 .column_ration4-4-4 { flex-wrap: wrap; }
